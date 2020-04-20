@@ -1,5 +1,7 @@
-# Thesis Review
-Personal thesis review page
+# Thesis Review  
+
+Personal thesis review page    
+Content(or paper review, summary etc..) will be added in near future. 
 
 ---
 
