@@ -4,7 +4,7 @@ Before starting the review, about "A Robust and Efficient High-order Advection M
 
 ## Quick summary
 
-This paper suggests efficient way and improved method of CIP(Constrained Interpolated profile), reducing unnecessary coordinates in calculating interpolation between particles.  
+This paper suggests efficient way and improved method of CIP(Constrained Interpolated profile) by reducing unnecessary coordinates in calculating interpolation between particles.  
 
 ## Concept
 
