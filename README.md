@@ -41,7 +41,7 @@ Content(or paper review, summary etc..) will be added near future.
     <td class="tg-0lax">A Deep Learning Framework for Character Motion Synthesis and Editing</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Graphics</td>
+    <td class="tg-0lax">AI, Graphics</td>
     <td class="tg-0lax">2020.09</td>
     <td class="tg-0lax">Figure Skating Simulation from Video</td>
   </tr>
