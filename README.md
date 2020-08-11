@@ -7,10 +7,43 @@ Content(or paper review, summary etc..) will be added near future.
 
 ## Content
 
-| Label | Date | Title | Summary |  
-|---|---|---|---|  
-| Graphics | 2020.04.10 | A Robust and Efficient Hight-order Advection Method for Fluid Simulation | Improved CIP method | 
-| AI, Graphics | 2020.05.19 | [Accelerating Eulerian Fluid Simulation With Convolutional Networks](https://cims.nyu.edu/~schlacht/CNNFluids.htm) | Calculate pressure with CNN |
-| AI, Graphics | 2020.08.26 | Learning Motion Manifolds with Convolutional Autoencoders ||
-| AI, Graphics | 2020.09 | A Deep Learning Framework for Character Motion Synthesis and Editing ||
-| Graphics | 2020. | [Precomupted Acceleration Noise for Improved Rigid-Body Sound](http://graphics.stanford.edu/courses/cs448z/stuff/PAN_typoFix.pdf) ||
+<link rel="stylesheet">
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ysfy">Label</th>
+    <th class="tg-ysfy">Date</th>
+    <th class="tg-ysfy">Title</th>
+    <th class="tg-ysfy">Summary</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-xcht">Graphics</td>
+    <td class="tg-xcht">2020.04.10</td>
+    <td class="tg-xcht">A Robust and Efficient Hight-order Advection Method for Fluid Simulation</td>
+    <td class="tg-xcht">Improved CIP method</td>
+  </tr>
+  <tr>
+    <td class="tg-xcht">AI, Graphics</td>
+    <td class="tg-xcht">2020.05.19</td>
+    <td class="tg-xcht"><a href = "https://cims.nyu.edu/~schlacht/CNNFluids.htm">Accelerating Eulerian Fluid Simulation With Convolutional Networks</a></td>
+    <td class="tg-xcht">Calculate pressure with CNN</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">AI, Graphics</td>
+    <td class="tg-0lax">2020.08.26</td>
+    <td class="tg-0lax">Learning Motion Manifolds with Convolutional Autoencoders</td>
+  </tr>
+   <tr>
+    <td class="tg-0lax">AI, Graphics</td>
+    <td class="tg-0lax">2020.08.26</td>
+    <td class="tg-0lax">A Deep Learning Framework for Character Motion Synthesis and Editing</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Graphics</td>
+    <td class="tg-0lax">2020.09</td>
+    <td class="tg-0lax">Figure Skating Simulation from Video</td>
+  </tr>
+</tbody>
+</table>
