@@ -41,6 +41,11 @@ Content(or paper review, summary etc..) will be added near future.
     <td class="tg-0lax">2020.09.17</td>
     <td class="tg-0lax"><a href = "http://www.ipab.inf.ed.ac.uk/cgvu/motionsynthesis.pdf">A Deep Learning Framework for Character Motion Synthesis and Editing</a></td>
   </tr>
+   <tr>
+    <td class="tg-0lax">AI, Graphics</td>
+    <td class="tg-0lax">2020.09</td>
+    <td class="tg-0lax">Style compatibility for 3d furniture models</td>
+  </tr>
   <tr>
     <td class="tg-0lax">AI, Graphics</td>
     <td class="tg-0lax">2020.09</td>
