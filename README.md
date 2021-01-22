@@ -49,7 +49,7 @@ Content(or paper review, summary etc..) will be added near future.
   </tr>
   <tr>
     <td class="tg-0lax">AI, Graphics</td>
-    <td class="tg-0lax">2020.09</td>
+    <td class="tg-0lax">2021.01</td>
     <td class="tg-0lax">Figure Skating Simulation from Video</td>
   </tr>
 </tbody>
